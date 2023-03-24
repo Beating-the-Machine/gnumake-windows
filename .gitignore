@@ -1,0 +1,7 @@
+WinRel
+WinRel.sbr
+tests/work/
+tests/config-flags.pm
+config.log
+tests/config_flags_pm
+Makefile
